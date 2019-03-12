@@ -1,0 +1,6 @@
+[submodule "CwlSignal"]
+	path = CwlSignal
+	url = https://github.com/mattgallagher/CwlSignal.git
+[submodule "CwlUtils"]
+	path = CwlUtils
+	url = https://github.com/mattgallagher/CwlUtils.git
